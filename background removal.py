@@ -38,7 +38,7 @@ while True:
 
         # invertendo a máscara
 
-        # bitwise e a operação para extrair o primeiro plano / pessoa
+        # bitwise_and - operação para extrair o primeiro plano / pessoa
 
         # imagem final
 
